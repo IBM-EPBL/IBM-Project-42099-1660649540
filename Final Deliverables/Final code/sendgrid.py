@@ -5,7 +5,7 @@ from email.mime.base import MIMEBase
 
 def alert(main_msg):
    mail_from = 'ucs19430@rmd.ac.in'
-   mail_to = 'vethanathanvk@gmail.com'
+   mail_to = 'davidnixonraj@gmail.com'
    msg = MIMEMultipart()
    msg['From'] = mail_from
    msg['To'] = mail_to
